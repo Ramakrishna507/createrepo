@@ -8,7 +8,6 @@ To secure a challenging position where I can effectively contribute my skills as
 B. Tech in Computer Science from Mandava Institute of Engineering and Technology, JNTU Kakinada.
 
 
-
 I have around 6+ years of Information technology experience which completely span with middleware technologies, and I have largely worked with SAG webMethods components. My tenure involves different roles including webMethods Integration Developer and support of web Methods Product Suite. 
 
 	Having 5years of extensive experience in Development & Production support of middleware applications in webMethods suite. 
@@ -40,6 +39,12 @@ OS: Windows 98/NT/2000/XP/2008/7 and UNIX
 Languages: C, C++, Core Java 
 
 Markup: XML & HTML, JSON
+
+
+WORK EXPERIENCE:
+	Working as SOW contingent webMethods Developer with client BMC Software (on payroll of Unified Softech), Pune from Aug 2023 to till now. 
+	Worked as a webMethods Developer with client Auromax Technologies (on payroll of Unified Softech), Hyderabad from May 2021 to 2022. 
+	Worked as a webMethods Developer with client STC/Channels (on payroll of Unified Softech), Hyderabad from Aug 2019 to 2021.
 
 
 
