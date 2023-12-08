@@ -8,6 +8,7 @@ To secure a challenging position where I can effectively contribute my skills as
 B. Tech in Computer Science from Mandava Institute of Engineering and Technology, JNTU Kakinada.
 
 
+
 I have around 6+ years of Information technology experience which completely span with middleware technologies, and I have largely worked with SAG webMethods components. My tenure involves different roles including webMethods Integration Developer and support of web Methods Product Suite. 
 
 	Having 5years of extensive experience in Development & Production support of middleware applications in webMethods suite. 
@@ -22,6 +23,25 @@ I have around 6+ years of Information technology experience which completely spa
 	Excellent experience in Mapping between various file formats like XML, JSON. 
 	Good analytical ability and grasping power that enables me to learn new technologies. 
 	Strong team player with excellent interpersonal and communication skills, including the ability to coordinate and motivate team members.
+
+TECHNICAL SKILLS:
+
+WebMethods: (10.5,10.3,10.1,9.6)
+Components: Designer, wMDeployer, APIGateway, API Portal, Integration Server, Broker, UM 
+Document types XML, ISO etc. 
+
+Protocols: FTP, FTPS, HTTP, HTTPS, webservices/SOAP, REST, SON, OAuth, Basic and Bearer 
+Adapter: JDBC 
+
+Database: Oracle 10g/11g, Microsoft SQL server 
+
+OS: Windows 98/NT/2000/XP/2008/7 and UNIX 
+
+Languages: C, C++, Core Java 
+
+Markup: XML & HTML, JSON
+
+
 
 
 
