@@ -8,6 +8,22 @@ To secure a challenging position where I can effectively contribute my skills as
 B. Tech in Computer Science from Mandava Institute of Engineering and Technology, JNTU Kakinada.
 
 
+I have around 6+ years of Information technology experience which completely span with middleware technologies, and I have largely worked with SAG webMethods components. My tenure involves different roles including webMethods Integration Developer and support of web Methods Product Suite. 
+
+	Having 5years of extensive experience in Development & Production support of middleware applications in webMethods suite. 
+	Good understanding in EAI concepts (APIs, IS Broker, Designer and JDBCAdapters). 
+	API Management – webMethods API Gateway, Exposing and Consuming APIs, API Portal, Governing and Securing, Monitoring and managing API Management System. 
+	Strong knowledge with making integration design decisions in various implementation projects. 
+	Hands on experience in developing Business Integration logic, EAI & B2B implementation using WebMethods. 
+	Hands on experience in webMethods 10.x,9.x (Designer, Wm Deployer, IS, UM/Broker and JDBC adapters) for various B2B Integrations/EAI. 
+	Good hands-on experience in developing /Implementing REST services. 
+	Good hands-on experience in developing /Implementing SOAP/web services. 
+	Ability to understand full functionality from source application to target application. 
+	Excellent experience in Mapping between various file formats like XML, JSON. 
+	Good analytical ability and grasping power that enables me to learn new technologies. 
+	Strong team player with excellent interpersonal and communication skills, including the ability to coordinate and motivate team members.
+
+
 
 
 
